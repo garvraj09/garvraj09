@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there, I'm Garv Raj👋
+_____________________________________________________________________
 
-<!--
-**garvraj09/garvraj09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer
 
-Here are some ideas to get you started:
+🎓 Computer Science and Information Technology Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+______________________________________________________________________
+
+- Java
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+📫 Connect with me
+_______________________________________________________________________
+
+- LinkedIn: https://www.linkedin.com/in/garv-raj/
+- Email: garvraj3456@gmail.com
