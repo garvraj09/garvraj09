@@ -1,9 +1,9 @@
 Hi there, I'm Garv Raj👋
-_____________________________________________________________________
+______________________________________________________________________
 
-💻 MERN Stack Developer
+MERN Stack Developer with a good grasp in DSA currently pursuing B.Tech
+in Computer Science and Information Technology.
 
-🎓 Computer Science and Information Technology Student
 
 🚀 Tech Stack
 ______________________________________________________________________
@@ -14,7 +14,9 @@ ______________________________________________________________________
 - Node.js
 - Express.js
 - MongoDB
-- Git & GitHub
+- Git
+- MySQL
+
 
 📫 Connect with me
 _______________________________________________________________________
