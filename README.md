@@ -10,12 +10,15 @@ ______________________________________________________________________
 
 - Java
 - JavaScript
+- Python
 - React
 - Node.js
 - Express.js
 - MongoDB
 - Git
 - MySQL
+- RAG
+- ChromaDB
 
 
 📫 Connect with me
