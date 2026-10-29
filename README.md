@@ -1,8 +1,7 @@
 Hi there, I'm Garv Raj👋
 ______________________________________________________________________
 
-MERN Stack Developer with a good grasp in DSA currently pursuing B.Tech
-in Computer Science and Information Technology.
+Python Developer with a strong grasp in Data Structures and Algorithms.
 
 
 🚀 Tech Stack
@@ -11,13 +10,17 @@ ______________________________________________________________________
 - Java
 - JavaScript
 - Python
+- FastAPI
 - React
 - Node.js
 - Express.js
 - MongoDB
 - Git
+- SQLAlchemy
 - MySQL
-- RAG
+- PostgreSQL
+- OracleDB
+- RAG (Retrieval Augmented Generation)
 - ChromaDB
 
 
@@ -25,4 +28,5 @@ ______________________________________________________________________
 _______________________________________________________________________
 
 - LinkedIn: https://www.linkedin.com/in/garv-raj/
+- Leetcode: https://leetcode.com/u/GarvRaj/
 - Email: garvraj3456@gmail.com
