@@ -1,7 +1,7 @@
 Hi there, I'm Garv Raj👋
 ______________________________________________________________________
 
-Python Developer with a strong grasp in Data Structures and Algorithms.
+Python Developer with a strong grasp in Data Structures and Algorithms. Solved over 200 DSA questions across different platforms and have worked on industry level projects.
 
 
 🚀 Tech Stack
